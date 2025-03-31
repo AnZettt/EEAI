@@ -1,4 +1,5 @@
 # EEAI
+Punya Asam
 
 ## Overview
 A Keras implementation of LSTM that generates EE research question ideas,
