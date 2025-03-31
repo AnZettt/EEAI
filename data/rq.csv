@@ -1,4 +1,63 @@
 ResearchQuestion
+To what extent is the performance of computer vision algorithms in image analysis influenced by kernel count and subsampling stride?
 to what extent are the binary and jump search algorithms efficient for data sets of increasing sizes?
+To what extent can the linear regression machine learning algorithm predict the outcome of the random integer number generator in the Ruby programming language?
+How does the re-balancing algorithm efficiency of an Adelson-Velskii and Landis Tree compare to that of a Red-Black Tree in terms of time complexity upon insertion of values?
+How does the volume of data affect the accuracy of predictions made using different classifier data mining algorithms?
 To what extent does varying the speeds of system RAM affect the speeds of a hard disk drive in a computer system in a computerized workplace?
+What is the difference between the runtime efficiency of Dijkstra's and the A* pathfinding algorithms in finding the shortest path in mazes with varying size?
 To what extent can Genetic Algorithms optimize the English Keyboard Layout for Speed?
+To what extent can an image recognition neural network verify if a signature is genuine or forged?
+To What Extent Will Advances in Computing Speeds Negate the Security Provided by 256-bit Password Hashing?
+To what extent would Depth first search or Breadth first search be suitable for search in graph data structures used by social networks taking time and memory as determining factors in the java virtual machine?
+To what extent does Kernel Page Table Isolation affect performance in systems powered by Intel CPUs?
+To what extent the variation in search pattern will affect the efficiency of Rabin Karp algorithm and Boyer Moore algorithm in the terms of time complexity?
+To what extent is the TF-IDF score a reliable means of classifying text and predicting job titles?
+To what extent are character-level convolutional neural networks viable for classifying texts by their century of creation?
+How effective are graph path searching and traversing algorithms compared to tree ones?
+To what extent is the GNU C library heap implementation on glibc version 2.31 more secure than version 2.15 and how has this affected its performance?
+How is AES symmetric encryption algorithm more efficient in regards to the speed and memory used compared to the RSA asymmetric algorithm when encrypting /decrypting alphanumeric data?
+Which type of random number generator most consistently produces sufficiently random binary sequences?
+To what extent is a divide-and-conquer algorithm applicable to solving the problem of ordinal classification with a binary classifier in terms of time complexity and performance?
+How does the sorting efficiency of the Tree Sort compare to that of the Heap Sort in terms of time complexity for increasing sizes of randomized integer datasets?
+To what extent register-based bytecode is more suitable for high-performance process virtual machines than stack-based bytecode?
+To what extent is type inference possible for statically typed polymorphic object-oriented programming languages?
+How far does Dijkstra's search algorithm compare to A* search algorithm for finding the shortest path in a graph as the size of the graph increases by number of vertices?
+To what extent is the Chinese Pinyin IME different from Chinese Stroke IME in terms of speed and efficiency?
+To what extent do contemporary quantum computing solutions affect the current and future security of RSA as a public key cryptography solution?
+To What Extent Can Convolutional Neural Network and Spectrograms be Used to Diagnose Covid-19 Patients?
+To what extent does the time complexity of RSA Encryption compare to Blowfish Encryption when encrypting data of varying sizes?
+To what extent is the performance of tournament selection strategy better than that of roulette wheel selection in solving the Knapsack Problem in terms of convergence rate and quality of the solution with different configurations?
+How does the use of priority queue affect the performance of Dijkstra and Prim Algorithms?
+How accurate and efficient are different neural networks in solving the protein folding problem?
+Which hashing algorithm out of MD5 and SHA -1 is the best in validating data transfer using SFTP (simple file transfer protocol) over a network that implements SSH protocol in terms of speed of data transfer and collision resistance?
+To what extent Branch and Bound algorithm Greedy algorithm and the Christofides' algorithm are efficient ways of solving the Travelling Salesman Problem (TSP)?
+To what extent is the speed of a Levenshtein's distance-based approximate string-matching algorithm different when being processed on a CPU vs. on a GPU?
+In Solving the Travelling Salesman Problem Using a Genetic Algorithm How Does Order Crossover Compare to Partially Mapped Crossover in Terms of Improving the Efficiency of Convergence and Optimality of the Solution?
+How does the genetic algorithm compare to that of the particle swarm optimization algorithm in providing solutions to optimization problems in terms of speed and accuracy?
+To what extent can the genetic algorithm be applied in constructing decision trees for data classification?
+To what extent is the performance of the k-means clustering algorithm in unsupervised learning influenced by the initial placement algorithm the number of features and the number of clusters?
+To what extent can a Feed Forward Neural Network successfully mitigate an HTTP-flood distributed denial-of-service attack?
+How does "k-nearest neighbour algorithm" compare to "Naïve Bayes algorithm" in diagnosing Parkinson's Disease when using striatum dimensional features as input data?
+To what extent is the ability of an intelligent agent to operate in unfamiliar scenarios affected by the number of hidden-layer neurons in its neural network and the number of generations it is trained for?
+How effectively do the hyperparameters of a GANs influence its ability to generate high-quality images and its time complexity?
+To what extent does Smoothing Reduce False Edge Detection from Blurry Areas of Images on Various Edge Detection Algorithms?
+How does Netflix's Recommendation Algorithm use a collaborative filtering-based recommender system to provide efficient recommendations to users?
+To what extent is the accuracy of LSTM neural Networks for the prediction of bitcoin pricing influenced by time frequencies?
+How do convolutional neural networks compare to recurrent neural networks in terms of speed and accuracy when performing speech recognition?
+To what extent is the performance of a neural network dependent on the batch size and number of epochs at varying rates of training data mislabelling?
+To what extent do increasing processor speeds impact the efficiency of brute-force attacks against Merkle-Damg ̊ard-based cryptographic hashing functions?
+To what extent does increasing the number of children impact the Surface Area Heuristic ratio and Build Time in Bounding Volume Hierarchies in Ray Tracing Applications?
+To what extent do branch mispredictions affect the performance of well-known comparison sorts?
+How does the Spectre vulnerability patch affect the performance of systems operated by AMD CPUs?
+Which model ARIMA or LSTM demonstrates superior accuracy in predicting stock prices based on empirical evidence?
+Which Lossless algorithm between Huffman Coding and Shannon-Fano Coding is more efficient in terms of their Compression Ratio?
+How Does the Use of a Priority Queue and the Implementation of Bellman-Ford and Dijkstra's Algorithm Affect the Time Complexity of Solving the Shortest Path Problem in Weighted Graphs?
+Evaluating and comparing the effectiveness of large language models to static code analysis tools for vulnerability detection in software source code.
+How does Kruskal's algorithm compare to Prim's algorithm in finding a minimum spanning tree in a graph in terms of running time across graphs with varying densities?
+How does the Elitist Genetic Algorithm compare to Ant Colony System in terms of time complexity and accuracy when attempting to solve the Travelling Salesman Problem?
+What is the relative forecasting accuracy of SARIMA and PROPHET models for daily COVID-19 cases in South Korea?
+How do the real-time object detection frameworks; YOLOv8 YOLOv9 and YOLOv10 comparatively perform in terms of model efficiency in detecting various objects in adverse weather conditions?
+Why do some Wikipedia articles have their first visible edits to their talk pages occurring before those of the articles themselves?
+How does the re-balancing algorithm efficiency of an Adelson-Velskii and Landis Tree compare to that of a Red-Black Tree in terms of time complexity upon insertion of values?
+To what extent is a blockchain-based system a viable option for the management of assets of an online game involving inter-player asset trading?
